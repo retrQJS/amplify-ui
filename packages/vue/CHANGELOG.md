@@ -1,5 +1,11 @@
 # @aws-amplify/ui-vue
 
+## 2.4.13
+
+### Patch Changes
+
+- [#2184](https://github.com/aws-amplify/amplify-ui/pull/2184) [`a8b77d484`](https://github.com/aws-amplify/amplify-ui/commit/a8b77d4849fe6df85b61c8af23a264d40f799de6) Thanks [@ErikCH](https://github.com/ErikCH)! - Cleaned Vue code. Updated jest to latest. Added in JSX. Updated how editor displays interface in .vue files.
+
 ## 2.4.12
 
 ### Patch Changes
